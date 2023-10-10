@@ -10,5 +10,12 @@ Identificamos que los valores faltantes se representaban con un signo de interro
 
 ## ANALISIS EXPLORATORIO DE DATOS (EDA)
 
+Para comprender los datos presentados, llevamos a cabo observaciones y análisis relacionados entre sí con el fin de extraer conclusiones. Algunos de los enfoques que empleamos incluyen:
+
+- Medidas descriptivas
+- Registros duplicados
+- Observación y cálculo de la presencia de valores atípicos (Total Fallecidos y Total Sobrevivientes).
+- Graficos que incluyen un análisis de los accidentes más graves, desglosados por Linea temporal, país, tipo de avión, aerolínea y aeronaves con mayor número de víctimas.
+- Análisis de KPIs que incluye la tasa de mortalidad, la tasa de fatalidad de la tripulación y la media móvil de accidentes a lo largo de los años.
 
 
