@@ -18,4 +18,7 @@ Para comprender los datos presentados, llevamos a cabo observaciones y análisis
 - Graficos que incluyen un análisis de los accidentes más graves, desglosados por Linea temporal, país, tipo de avión, aerolínea y aeronaves con mayor número de víctimas.
 - Análisis de KPIs que incluye la tasa de mortalidad, la tasa de fatalidad de la tripulación y la media móvil de accidentes a lo largo de los años.
 
+# DASHBOARDS
+
+El dashboard se organiza mediante un navegador de páginas que abarca distintas secciones, incluyendo información detallada sobre países, aeronaves, tendencias y operadores. Además, cuenta con un útil globo de herramienta de ayuda visual (tooltip) para enriquecer la experiencia del usuario.
 
