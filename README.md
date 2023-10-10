@@ -18,7 +18,7 @@ Para comprender los datos presentados, llevamos a cabo observaciones y análisis
 - Graficos que incluyen un análisis de los accidentes más graves, desglosados por Linea temporal, país, tipo de avión, aerolínea y aeronaves con mayor número de víctimas.
 - Análisis de KPIs que incluye la tasa de mortalidad, la tasa de fatalidad de la tripulación y la media móvil de accidentes a lo largo de los años.
 
-# DASHBOARDS
+## DASHBOARDS
 
 El dashboard se organiza mediante un navegador de páginas que abarca distintas secciones, incluyendo información detallada sobre países, aeronaves, tendencias y operadores. Además, cuenta con un útil globo de herramienta de ayuda visual (tooltip) para enriquecer la experiencia del usuario.
 
@@ -38,7 +38,9 @@ Junto a este gráfico de barras, se encuentra un gráfico circular que indica si
 
 En la siguiente página, titulada 'TENDENCIA', encontramos herramientas de filtrado que permiten seleccionar un rango de años desde 1908 hasta 2021, así como la opción de filtrar por países. Además, en la misma página, se presentan dos indicadores de tasa de mortalidad y tasa supervivencia.
 
-Luego, se encuentra un gráfico de línea temporal que ilustra los mayores accidentes aéreos a lo largo de los años. Complementando esta información, se presenta otro gráfico de línea temporal que representa la tasa de mortalidad a lo largo de los años, junto con un KPI (Indicador Clave de Desempeño) que indica si la tasa de mortalidad se encuentra en cumplimiento. Si la tasa está por debajo del objetivo del 60%, el objetivo no se cumple; si está por encima, se considera que se cumple el objetivo de tasa de mortalidad
+Luego, encontramos un gráfico de línea temporal que presenta los accidentes aéreos más significativos a lo largo de los años. Este gráfico incluye una función de ayuda visual en forma de globo de información (tooltip). Al desplazarnos sobre la gráfica con el cursor, se despliega información detallada que identifica las marcas de aviones asociadas a los accidentes más relevantes en las coordenadas específicas que tocamos.
+
+Complementando esta información, se presenta otro gráfico de línea temporal que representa la tasa de mortalidad a lo largo de los años, junto con un KPI (Indicador Clave de Desempeño) que indica si la tasa de mortalidad se encuentra en cumplimiento. Si la tasa está por debajo del objetivo del 60%, el objetivo no se cumple; si está por encima, se considera que se cumple el objetivo de tasa de mortalidad
 
 ### OPERADOR/AEROLINEA
 
@@ -47,6 +49,7 @@ Justo debajo, una gráfica de barras destaca a los operadores que han experiment
 
 Por último, una gráfica de línea temporal se encarga de ilustrar la evolución de las tasas de supervivencia a lo largo del tiempo. Estableciendo un objetivo claro, se busca mantener la tasa de supervivencia por encima del 15%, lo que se refleja en un indicador clave de desempeño (KPI) en esta página.
 
+## CONCLUSIONES
 
 
 
