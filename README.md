@@ -42,5 +42,11 @@ Luego, se encuentra un gráfico de línea temporal que ilustra los mayores accid
 
 ### OPERADOR/AEROLINEA
 
+En la última página, encontramos la sección dedicada a los operadores, donde disponemos de filtros por país y operador/aerolínea para una búsqueda personalizada. Además, se presenta información sobre el total de accidentes, el número acumulado de sobrevivientes y el número de fallecidos.
+Justo debajo, una gráfica de barras destaca a los operadores que han experimentado el mayor número de accidentes. En un panel lateral, se muestra el porcentaje correspondiente a la tasa de supervivencia en comparación con la tasa de mortalidad.
+
+Por último, una gráfica de línea temporal se encarga de ilustrar la evolución de las tasas de supervivencia a lo largo del tiempo. Estableciendo un objetivo claro, se busca mantener la tasa de supervivencia por encima del 15%, lo que se refleja en un indicador clave de desempeño (KPI) en esta página.
+
+
 
 
