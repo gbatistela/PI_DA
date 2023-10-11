@@ -1,6 +1,6 @@
 
 
-                                                                            ![](Henry.png)
+                                                                            ![](Avion.jpg)
 
 # DATA ANALYTICS - PROYECTO INDIVIDUAL Nº2
 
