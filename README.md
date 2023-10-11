@@ -57,7 +57,7 @@ Por último, una gráfica de línea temporal se encarga de ilustrar la evolució
 
 - La tasa de supervivencia se presenta en la sección "País" del dashboard, con el objetivo de mantenerla por encima del 15%. A lo largo de los años, hemos logrado mantener una tasa de supervivencia del 27.8%, lo que indica un cumplimiento exitoso de nuestro objetivo.
 
--Estados Unidos destaca por tener el mayor número de accidentes aéreos a lo largo de los años. Sin embargo, es importante notar que su tasa de mortalidad se sitúa en el 60.5%, superando ligeramente el objetivo establecido. No obstante, la diferencia es mínima y sugiere un desempeño muy cercano a la meta.
+- Estados Unidos destaca por tener el mayor número de accidentes aéreos a lo largo de los años. Sin embargo, es importante notar que su tasa de mortalidad se sitúa en el 60.5%, superando ligeramente el objetivo establecido. No obstante, la diferencia es mínima y sugiere un desempeño muy cercano a la meta.
 
 
 
