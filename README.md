@@ -40,7 +40,7 @@ En la siguiente página, titulada 'TENDENCIA', encontramos herramientas de filtr
 
 Luego, encontramos un gráfico de línea temporal que presenta los accidentes aéreos más significativos a lo largo de los años. Este gráfico incluye una función de ayuda visual en forma de globo de información (tooltip). Al desplazarnos sobre la gráfica con el cursor, se despliega información detallada que identifica las marcas de aviones asociadas a los accidentes más relevantes en las coordenadas específicas que tocamos.
 
-Complementando esta información, se presenta otro gráfico de línea temporal que representa la tasa de mortalidad a lo largo de los años, junto con un KPI (Indicador Clave de Desempeño) que indica si la tasa de mortalidad se encuentra en cumplimiento. Si la tasa está por debajo del objetivo del 60%, el objetivo no se cumple; si está por encima, se considera que se cumple el objetivo de tasa de mortalidad
+Complementando esta información, se presenta una tabla con la variacion interanual de accidentes en porcentaje, incluyendo los accidentes de cada año y con los accidentes del año anterior.
 
 ### OPERADOR/AEROLINEA
 
@@ -50,6 +50,14 @@ Justo debajo, una gráfica de barras destaca a los operadores que han experiment
 Por último, una gráfica de línea temporal se encarga de ilustrar la evolución de las tasas de supervivencia a lo largo del tiempo. Estableciendo un objetivo claro, se busca mantener la tasa de supervivencia por encima del 15%, lo que se refleja en un indicador clave de desempeño (KPI) en esta página.
 
 ## CONCLUSIONES
+
+- La tendencia anual de accidentes,Nos indica que desde los años 1908 hasta 1945, se observa una tendencia alcista en la cantidad de accidentes. Posteriormente, esta tendencia se mantuvo estable hasta 1989. Sin embargo, a partir de ese año y hasta 2021, se observa una marcada tendencia a la baja. Este declive constante cumple con nuestro objetivo de mantener los accidentes por debajo de nuestra línea de tendencia, respaldada por la media móvil. 
+
+- El objetivo principal de la tasa de mortalidad es mantenerla por debajo del 60%. No obstante, al analizar la sección 'PAÍS' del dashboard, observamos que este objetivo no se ha cumplido a lo largo de los años. Esto señala la necesidad de aumentar la investigación de accidentes y de implementar mejoras en los protocolos de seguridad de manera significativa.
+
+- La tasa de supervivencia se presenta en la sección "País" del dashboard, con el objetivo de mantenerla por encima del 15%. A lo largo de los años, hemos logrado mantener una tasa de supervivencia del 27.8%, lo que indica un cumplimiento exitoso de nuestro objetivo.
+
+-Estados Unidos destaca por tener el mayor número de accidentes aéreos a lo largo de los años. Sin embargo, es importante notar que su tasa de mortalidad se sitúa en el 60.5%, superando ligeramente el objetivo establecido. No obstante, la diferencia es mínima y sugiere un desempeño muy cercano a la meta.
 
 
 
