@@ -1,6 +1,6 @@
 
 
-![]()
+![](Henry.png)
 
 # DATA ANALYTICS - PROYECTO INDIVIDUAL Nº2
 
